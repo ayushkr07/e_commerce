@@ -1,0 +1,9 @@
+.carousel-indicators li {
+background-color:blue;
+}
+.carousel-indicators .active {
+
+    background-color: #ffff99;
+}
+h1{
+color:red;}
